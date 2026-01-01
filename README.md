@@ -1,5 +1,5 @@
-# Gradingsystem
-A begginer project using C# to calculate a letter grade using a number grade
+# GradingSystemBool
+A begginer project using C# to calculate a letter grade using a number grade using booleans
 
 ## How to run
 1. Make sure you have the [.NET sdk](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-10.0.101-windows-x64-installer) installed
